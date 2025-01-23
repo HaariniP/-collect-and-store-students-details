@@ -35,3 +35,16 @@ public class students details {
         }
     }
 }
+
+Output 
+Student Details:
+Student 1:
+Name: John Doe
+Roll number: 101
+Age: 20
+
+Student 2:
+Name: Jane Smith
+Roll number: 102
+Age: 22
+
